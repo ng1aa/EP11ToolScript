@@ -1,0 +1,19 @@
+{
+  "lua": [
+    {
+      "id": "aimbot",
+      "name": "Aimbot Pro",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/ng1aa/EP11/refs/heads/main/lua/aimbot_v1.0.0.zip"
+    }
+  ],
+  "lib": [
+    {
+      "id": "libhook_aim",
+      "name": "Hook Aimbot",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/ng1aa/EP11/refs/heads/main/lib/libhook_aim_v1.0.0.so",
+      "inject_cmd": "sh /data/local/tmp/inject.sh %d %s"
+    }
+  ]
+}
