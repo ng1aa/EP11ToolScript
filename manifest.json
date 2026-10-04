@@ -9,8 +9,8 @@
   ],
   "lib": [
     {
-      "id": "libhook_aim",
-      "name": "Hook Aimbot",
+      "id": "libEP118BPv2",
+      "name": "8BP Crack V2",
       "version": "1.0.0",
       "url": "https://raw.githubusercontent.com/ng1aa/EP11/refs/heads/main/lib/libhook_aim_v1.0.0.so",
       "inject_cmd": "sh /data/local/tmp/inject.sh %d %s"
