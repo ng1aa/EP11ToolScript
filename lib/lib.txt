@@ -1,1 +1,3 @@
 lib.so
+
+git add . && git commit -m "04/10" && git push
